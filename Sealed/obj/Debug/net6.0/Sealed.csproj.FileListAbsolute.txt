@@ -1,0 +1,15 @@
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\Sealed\bin\Debug\net6.0\Sealed.exe
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\Sealed\bin\Debug\net6.0\Sealed.deps.json
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\Sealed\bin\Debug\net6.0\Sealed.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\Sealed\bin\Debug\net6.0\Sealed.dll
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\Sealed\bin\Debug\net6.0\Sealed.pdb
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\Sealed\obj\Debug\net6.0\Sealed.csproj.AssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\Sealed\obj\Debug\net6.0\Sealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\Sealed\obj\Debug\net6.0\Sealed.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\Sealed\obj\Debug\net6.0\Sealed.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\Sealed\obj\Debug\net6.0\Sealed.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\Sealed\obj\Debug\net6.0\Sealed.dll
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\Sealed\obj\Debug\net6.0\refint\Sealed.dll
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\Sealed\obj\Debug\net6.0\Sealed.pdb
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\Sealed\obj\Debug\net6.0\Sealed.genruntimeconfig.cache
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\Sealed\obj\Debug\net6.0\ref\Sealed.dll

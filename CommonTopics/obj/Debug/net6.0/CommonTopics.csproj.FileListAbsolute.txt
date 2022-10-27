@@ -1,0 +1,15 @@
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\CommonTopics\bin\Debug\net6.0\CommonTopics.exe
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\CommonTopics\bin\Debug\net6.0\CommonTopics.deps.json
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\CommonTopics\bin\Debug\net6.0\CommonTopics.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\CommonTopics\bin\Debug\net6.0\CommonTopics.dll
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\CommonTopics\bin\Debug\net6.0\CommonTopics.pdb
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\CommonTopics\obj\Debug\net6.0\CommonTopics.csproj.AssemblyReference.cache
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\CommonTopics\obj\Debug\net6.0\CommonTopics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\CommonTopics\obj\Debug\net6.0\CommonTopics.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\CommonTopics\obj\Debug\net6.0\CommonTopics.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\CommonTopics\obj\Debug\net6.0\CommonTopics.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\CommonTopics\obj\Debug\net6.0\CommonTopics.dll
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\CommonTopics\obj\Debug\net6.0\refint\CommonTopics.dll
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\CommonTopics\obj\Debug\net6.0\CommonTopics.pdb
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\CommonTopics\obj\Debug\net6.0\CommonTopics.genruntimeconfig.cache
+C:\Users\sahin\OneDrive\Desktop\CSharpInterviewNotes\CommonTopics\obj\Debug\net6.0\ref\CommonTopics.dll
